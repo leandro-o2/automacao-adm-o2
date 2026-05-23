@@ -1,2 +1,18 @@
-# automacao-adm-o2
-Primeiros projetos unindo ADM + Programação.  Documentando minha jornada pra sair das planilhas usando Java e Python na O2.
+
+# Automação ADM O2 🤖📊
+
+ADM em formação aprendendo programação pra resolver problemas reais da Academia O2.
+
+## Estudando agora
+- [ ] Sintaxe básica Java
+- [ ] Primeiro Hello World
+- [ ] Lógica de programação com Python
+- [ ] Git e GitHub na prática
+
+## Objetivo
+Aprender programando. Cada código novo vira uma automação pra gestão da O2.
+
+## Stack
+Java | Python | Git
+
+**Status:** Iniciante dedicado. Documentando tudo desde o dia 1.
