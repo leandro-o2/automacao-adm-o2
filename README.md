@@ -1,5 +1,5 @@
 
-# Automação ADM O2 🤖📊
+# Automação ADM  🤖📊
 
 ADM em formação aprendendo programação pra resolver problemas reais.
 
