@@ -1,7 +1,7 @@
 
 # Automação ADM O2 🤖📊
 
-ADM em formação aprendendo programação pra resolver problemas reais da Academia O2.
+ADM em formação aprendendo programação pra resolver problemas reais.
 
 ## Estudando agora
 - [ ] Sintaxe básica Java
