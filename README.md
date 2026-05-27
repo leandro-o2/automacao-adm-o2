@@ -10,7 +10,7 @@ ADM em formação aprendendo programação pra resolver problemas reais.
 - [ ] Git e GitHub na prática
 
 ## Objetivo
-Aprender programando. Cada código novo vira uma automação pra gestão da O2.
+Aprender programando. Cada código novo vira uma automação.
 
 ## Stack
 Java | Python | Git
